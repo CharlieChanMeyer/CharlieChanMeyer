@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlieChanMeyer
 - 👀 I’m interested in cooking, travel, music (especially in rock and pop-rock) and ice skating.
-- 🌱 I'm currently following a double  IT (engineering) master's degree at Osaka Metropolitan University - Japan and Cy Tech - France.
+- 🌱 I'm currently working as a junior image processing enginner in Japan.
 - 📫 Reach me by mail: charlie.chan.meyer@gmail.com or on LinkedIn: https://www.linkedin.com/in/charlie-chan-meyer/
 
 <!---
